@@ -25,7 +25,7 @@ ms.topic: article
 
 To onboard machines without Internet access, you'll need to take the following general steps:
 
-## On-premise machines
+## On-premises machines
 
 - Setup Azure Log Analytics (formerly known as OMS Gateway) to act as proxy or hub:
   - [Azure Log Analytics Agent](https://docs.microsoft.com/azure/azure-monitor/platform/gateway#download-the-log-analytics-gateway)
